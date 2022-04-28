@@ -26,6 +26,3 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 # License
 
 [MIT](dilanurkulansi.com)
-
-
-akıllı ol
