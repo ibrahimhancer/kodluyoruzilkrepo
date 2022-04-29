@@ -5,7 +5,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) oluşturduğumuz ilk repo. İ�
 
 # Installation
 
-Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+Öncelikle projeyi clonelayın.
 ````
 https://github.com/ibrahimhancer/kodluyoruzilkrepo.git
 ````
